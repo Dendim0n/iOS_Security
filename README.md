@@ -1,12 +1,13 @@
 #Important!#
 
-## The project is not currently maintained! Use as reference only! ##
+## The project is not currently maintained by olxios! I'm trying to continue update it.##
 
 # README #
 
 This is an iOS framework, which incorporates multiple security controls into one framework. It was written for a Master's thesis about iOS application security as a proof-of-concept project. 
 
 Tested with iOS 8.x
+//Trying to make it working for ~iOS 12
 
 # List of implemented security controls #
 
